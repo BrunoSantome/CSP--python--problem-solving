@@ -1,0 +1,11 @@
+python3 CSPStowage.py CSP-tests Mapa1.txt Contenedores1.txt 
+python3 CSPStowage.py CSP-tests Mapa2.txt Contenedores2.txt 
+python3 CSPStowage.py CSP-tests Mapa3.txt Contenedores3.txt 
+python3 CSPStowage.py CSP-tests Mapa4.txt Contenedores4.txt 
+python3 CSPStowage.py CSP-tests Mapa5.txt Contenedores5.txt
+python3 CSPStowage.py CSP-tests Mapa6.txt Contenedores6.txt
+python3 CSPStowage.py CSP-tests Mapa7.txt Contenedores7.txt
+python3 CSPStowage.py CSP-tests Mapa8.txt Contenedores8.txt
+python3 CSPStowage.py CSP-tests Mapa9.txt Contenedores8.txt 
+python3 CSPStowage.py CSP-tests Mapa1.txt Contenedores11.txt
+python3 CSPStowage.py CSP-tests Mapa1.txt Contenedores10.txt
